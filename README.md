@@ -10,7 +10,7 @@ const pallob = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "music", "movies", "chess"],
     firstLove: "Java",
-    currentlyDating: "JavaScript",
+    currentlyDating: "TypeScript",
     designPatterns: ["Model-view-controller", "Atomic"],
     currentFocus: "Data structure & algorithms",
     funFact: "I didn't learn HTML-CSS in my 5 years of undergrad life xD"
