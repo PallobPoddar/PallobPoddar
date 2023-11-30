@@ -12,7 +12,7 @@ const pallob = {
     firstLove: "Java",
     currentlyDating: "TypeScript",
     designPatterns: ["Model-view-controller", "Atomic"],
-    currentFocus: "Data structure & algorithms",
+    currentFocus: "Data structures & algorithms",
     funFact: "I didn't learn HTML-CSS in my 5 years of undergrad life xD"
 };
 ```
